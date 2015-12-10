@@ -1,0 +1,8 @@
+(operator
+ move
+ (params
+  (<b> Object) (<x> Object) (<y> Object))
+ (preconds
+  (on <b> <x>) (clear <b>) (clear <y>) (smaller <b> <y>))
+ (effects
+  (on <b> <y>) (clear <x>) (del on <b> <x>) (del clear <y>)))

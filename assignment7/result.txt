@@ -1,0 +1,1369 @@
+Class 0, attribute 0, bin 0, P(bin | class) = 0.09
+Class 0, attribute 0, bin 1, P(bin | class) = 0.74
+Class 0, attribute 0, bin 2, P(bin | class) = 0.17
+Class 0, attribute 0, bin 3, P(bin | class) = 0.01
+Class 0, attribute 0, bin 4, P(bin | class) = 0.00
+Class 0, attribute 1, bin 0, P(bin | class) = 0.08
+Class 0, attribute 1, bin 1, P(bin | class) = 0.72
+Class 0, attribute 1, bin 2, P(bin | class) = 0.20
+Class 0, attribute 1, bin 3, P(bin | class) = 0.00
+Class 0, attribute 1, bin 4, P(bin | class) = 0.01
+Class 0, attribute 2, bin 0, P(bin | class) = 0.05
+Class 0, attribute 2, bin 1, P(bin | class) = 0.86
+Class 0, attribute 2, bin 2, P(bin | class) = 0.09
+Class 0, attribute 2, bin 3, P(bin | class) = 0.00
+Class 0, attribute 2, bin 4, P(bin | class) = 0.00
+Class 0, attribute 3, bin 0, P(bin | class) = 0.43
+Class 0, attribute 3, bin 1, P(bin | class) = 0.41
+Class 0, attribute 3, bin 2, P(bin | class) = 0.15
+Class 0, attribute 3, bin 3, P(bin | class) = 0.01
+Class 0, attribute 3, bin 4, P(bin | class) = 0.00
+Class 0, attribute 4, bin 0, P(bin | class) = 0.00
+Class 0, attribute 4, bin 1, P(bin | class) = 1.00
+Class 0, attribute 4, bin 2, P(bin | class) = 0.00
+Class 0, attribute 4, bin 3, P(bin | class) = 0.00
+Class 0, attribute 4, bin 4, P(bin | class) = 0.00
+Class 0, attribute 5, bin 0, P(bin | class) = 0.00
+Class 0, attribute 5, bin 1, P(bin | class) = 0.00
+Class 0, attribute 5, bin 2, P(bin | class) = 0.00
+Class 0, attribute 5, bin 3, P(bin | class) = 0.00
+Class 0, attribute 5, bin 4, P(bin | class) = 1.00
+Class 0, attribute 6, bin 0, P(bin | class) = 0.04
+Class 0, attribute 6, bin 1, P(bin | class) = 0.95
+Class 0, attribute 6, bin 2, P(bin | class) = 0.01
+Class 0, attribute 6, bin 3, P(bin | class) = 0.00
+Class 0, attribute 6, bin 4, P(bin | class) = 0.00
+Class 0, attribute 7, bin 0, P(bin | class) = 0.98
+Class 0, attribute 7, bin 1, P(bin | class) = 0.02
+Class 0, attribute 7, bin 2, P(bin | class) = 0.01
+Class 0, attribute 7, bin 3, P(bin | class) = 0.00
+Class 0, attribute 7, bin 4, P(bin | class) = 0.00
+Class 1, attribute 0, bin 0, P(bin | class) = 0.30
+Class 1, attribute 0, bin 1, P(bin | class) = 0.63
+Class 1, attribute 0, bin 2, P(bin | class) = 0.06
+Class 1, attribute 0, bin 3, P(bin | class) = 0.01
+Class 1, attribute 0, bin 4, P(bin | class) = 0.00
+Class 1, attribute 1, bin 0, P(bin | class) = 0.30
+Class 1, attribute 1, bin 1, P(bin | class) = 0.64
+Class 1, attribute 1, bin 2, P(bin | class) = 0.06
+Class 1, attribute 1, bin 3, P(bin | class) = 0.00
+Class 1, attribute 1, bin 4, P(bin | class) = 0.00
+Class 1, attribute 2, bin 0, P(bin | class) = 0.01
+Class 1, attribute 2, bin 1, P(bin | class) = 0.90
+Class 1, attribute 2, bin 2, P(bin | class) = 0.09
+Class 1, attribute 2, bin 3, P(bin | class) = 0.00
+Class 1, attribute 2, bin 4, P(bin | class) = 0.00
+Class 1, attribute 3, bin 0, P(bin | class) = 0.92
+Class 1, attribute 3, bin 1, P(bin | class) = 0.07
+Class 1, attribute 3, bin 2, P(bin | class) = 0.00
+Class 1, attribute 3, bin 3, P(bin | class) = 0.00
+Class 1, attribute 3, bin 4, P(bin | class) = 0.00
+Class 1, attribute 4, bin 0, P(bin | class) = 0.00
+Class 1, attribute 4, bin 1, P(bin | class) = 0.99
+Class 1, attribute 4, bin 2, P(bin | class) = 0.00
+Class 1, attribute 4, bin 3, P(bin | class) = 0.00
+Class 1, attribute 4, bin 4, P(bin | class) = 0.01
+Class 1, attribute 5, bin 0, P(bin | class) = 0.00
+Class 1, attribute 5, bin 1, P(bin | class) = 0.00
+Class 1, attribute 5, bin 2, P(bin | class) = 0.00
+Class 1, attribute 5, bin 3, P(bin | class) = 0.00
+Class 1, attribute 5, bin 4, P(bin | class) = 1.00
+Class 1, attribute 6, bin 0, P(bin | class) = 0.05
+Class 1, attribute 6, bin 1, P(bin | class) = 0.94
+Class 1, attribute 6, bin 2, P(bin | class) = 0.01
+Class 1, attribute 6, bin 3, P(bin | class) = 0.00
+Class 1, attribute 6, bin 4, P(bin | class) = 0.00
+Class 1, attribute 7, bin 0, P(bin | class) = 0.75
+Class 1, attribute 7, bin 1, P(bin | class) = 0.18
+Class 1, attribute 7, bin 2, P(bin | class) = 0.05
+Class 1, attribute 7, bin 3, P(bin | class) = 0.01
+Class 1, attribute 7, bin 4, P(bin | class) = 0.00
+Class 2, attribute 0, bin 0, P(bin | class) = 0.44
+Class 2, attribute 0, bin 1, P(bin | class) = 0.51
+Class 2, attribute 0, bin 2, P(bin | class) = 0.05
+Class 2, attribute 0, bin 3, P(bin | class) = 0.00
+Class 2, attribute 0, bin 4, P(bin | class) = 0.00
+Class 2, attribute 1, bin 0, P(bin | class) = 0.22
+Class 2, attribute 1, bin 1, P(bin | class) = 0.66
+Class 2, attribute 1, bin 2, P(bin | class) = 0.12
+Class 2, attribute 1, bin 3, P(bin | class) = 0.00
+Class 2, attribute 1, bin 4, P(bin | class) = 0.00
+Class 2, attribute 2, bin 0, P(bin | class) = 0.76
+Class 2, attribute 2, bin 1, P(bin | class) = 0.24
+Class 2, attribute 2, bin 2, P(bin | class) = 0.00
+Class 2, attribute 2, bin 3, P(bin | class) = 0.00
+Class 2, attribute 2, bin 4, P(bin | class) = 0.00
+Class 2, attribute 3, bin 0, P(bin | class) = 0.96
+Class 2, attribute 3, bin 1, P(bin | class) = 0.04
+Class 2, attribute 3, bin 2, P(bin | class) = 0.00
+Class 2, attribute 3, bin 3, P(bin | class) = 0.00
+Class 2, attribute 3, bin 4, P(bin | class) = 0.00
+Class 2, attribute 4, bin 0, P(bin | class) = 0.00
+Class 2, attribute 4, bin 1, P(bin | class) = 0.99
+Class 2, attribute 4, bin 2, P(bin | class) = 0.00
+Class 2, attribute 4, bin 3, P(bin | class) = 0.00
+Class 2, attribute 4, bin 4, P(bin | class) = 0.01
+Class 2, attribute 5, bin 0, P(bin | class) = 0.00
+Class 2, attribute 5, bin 1, P(bin | class) = 0.00
+Class 2, attribute 5, bin 2, P(bin | class) = 0.00
+Class 2, attribute 5, bin 3, P(bin | class) = 0.00
+Class 2, attribute 5, bin 4, P(bin | class) = 1.00
+Class 2, attribute 6, bin 0, P(bin | class) = 0.01
+Class 2, attribute 6, bin 1, P(bin | class) = 0.99
+Class 2, attribute 6, bin 2, P(bin | class) = 0.00
+Class 2, attribute 6, bin 3, P(bin | class) = 0.00
+Class 2, attribute 6, bin 4, P(bin | class) = 0.00
+Class 2, attribute 7, bin 0, P(bin | class) = 0.93
+Class 2, attribute 7, bin 1, P(bin | class) = 0.06
+Class 2, attribute 7, bin 2, P(bin | class) = 0.00
+Class 2, attribute 7, bin 3, P(bin | class) = 0.01
+Class 2, attribute 7, bin 4, P(bin | class) = 0.00
+Class 3, attribute 0, bin 0, P(bin | class) = 0.00
+Class 3, attribute 0, bin 1, P(bin | class) = 0.00
+Class 3, attribute 0, bin 2, P(bin | class) = 0.59
+Class 3, attribute 0, bin 3, P(bin | class) = 0.38
+Class 3, attribute 0, bin 4, P(bin | class) = 0.03
+Class 3, attribute 1, bin 0, P(bin | class) = 0.00
+Class 3, attribute 1, bin 1, P(bin | class) = 0.00
+Class 3, attribute 1, bin 2, P(bin | class) = 0.62
+Class 3, attribute 1, bin 3, P(bin | class) = 0.38
+Class 3, attribute 1, bin 4, P(bin | class) = 0.00
+Class 3, attribute 2, bin 0, P(bin | class) = 0.59
+Class 3, attribute 2, bin 1, P(bin | class) = 0.41
+Class 3, attribute 2, bin 2, P(bin | class) = 0.00
+Class 3, attribute 2, bin 3, P(bin | class) = 0.00
+Class 3, attribute 2, bin 4, P(bin | class) = 0.00
+Class 3, attribute 3, bin 0, P(bin | class) = 0.88
+Class 3, attribute 3, bin 1, P(bin | class) = 0.09
+Class 3, attribute 3, bin 2, P(bin | class) = 0.03
+Class 3, attribute 3, bin 3, P(bin | class) = 0.00
+Class 3, attribute 3, bin 4, P(bin | class) = 0.00
+Class 3, attribute 4, bin 0, P(bin | class) = 0.00
+Class 3, attribute 4, bin 1, P(bin | class) = 1.00
+Class 3, attribute 4, bin 2, P(bin | class) = 0.00
+Class 3, attribute 4, bin 3, P(bin | class) = 0.00
+Class 3, attribute 4, bin 4, P(bin | class) = 0.00
+Class 3, attribute 5, bin 0, P(bin | class) = 0.00
+Class 3, attribute 5, bin 1, P(bin | class) = 0.00
+Class 3, attribute 5, bin 2, P(bin | class) = 0.00
+Class 3, attribute 5, bin 3, P(bin | class) = 0.00
+Class 3, attribute 5, bin 4, P(bin | class) = 1.00
+Class 3, attribute 6, bin 0, P(bin | class) = 0.06
+Class 3, attribute 6, bin 1, P(bin | class) = 0.94
+Class 3, attribute 6, bin 2, P(bin | class) = 0.00
+Class 3, attribute 6, bin 3, P(bin | class) = 0.00
+Class 3, attribute 6, bin 4, P(bin | class) = 0.00
+Class 3, attribute 7, bin 0, P(bin | class) = 0.88
+Class 3, attribute 7, bin 1, P(bin | class) = 0.09
+Class 3, attribute 7, bin 2, P(bin | class) = 0.03
+Class 3, attribute 7, bin 3, P(bin | class) = 0.00
+Class 3, attribute 7, bin 4, P(bin | class) = 0.00
+Class 4, attribute 0, bin 0, P(bin | class) = 0.06
+Class 4, attribute 0, bin 1, P(bin | class) = 0.11
+Class 4, attribute 0, bin 2, P(bin | class) = 0.40
+Class 4, attribute 0, bin 3, P(bin | class) = 0.43
+Class 4, attribute 0, bin 4, P(bin | class) = 0.00
+Class 4, attribute 1, bin 0, P(bin | class) = 0.09
+Class 4, attribute 1, bin 1, P(bin | class) = 0.37
+Class 4, attribute 1, bin 2, P(bin | class) = 0.49
+Class 4, attribute 1, bin 3, P(bin | class) = 0.06
+Class 4, attribute 1, bin 4, P(bin | class) = 0.00
+Class 4, attribute 2, bin 0, P(bin | class) = 0.46
+Class 4, attribute 2, bin 1, P(bin | class) = 0.54
+Class 4, attribute 2, bin 2, P(bin | class) = 0.00
+Class 4, attribute 2, bin 3, P(bin | class) = 0.00
+Class 4, attribute 2, bin 4, P(bin | class) = 0.00
+Class 4, attribute 3, bin 0, P(bin | class) = 0.74
+Class 4, attribute 3, bin 1, P(bin | class) = 0.26
+Class 4, attribute 3, bin 2, P(bin | class) = 0.00
+Class 4, attribute 3, bin 3, P(bin | class) = 0.00
+Class 4, attribute 3, bin 4, P(bin | class) = 0.00
+Class 4, attribute 4, bin 0, P(bin | class) = 0.00
+Class 4, attribute 4, bin 1, P(bin | class) = 1.00
+Class 4, attribute 4, bin 2, P(bin | class) = 0.00
+Class 4, attribute 4, bin 3, P(bin | class) = 0.00
+Class 4, attribute 4, bin 4, P(bin | class) = 0.00
+Class 4, attribute 5, bin 0, P(bin | class) = 0.00
+Class 4, attribute 5, bin 1, P(bin | class) = 0.00
+Class 4, attribute 5, bin 2, P(bin | class) = 0.00
+Class 4, attribute 5, bin 3, P(bin | class) = 0.00
+Class 4, attribute 5, bin 4, P(bin | class) = 1.00
+Class 4, attribute 6, bin 0, P(bin | class) = 0.06
+Class 4, attribute 6, bin 1, P(bin | class) = 0.91
+Class 4, attribute 6, bin 2, P(bin | class) = 0.03
+Class 4, attribute 6, bin 3, P(bin | class) = 0.00
+Class 4, attribute 6, bin 4, P(bin | class) = 0.00
+Class 4, attribute 7, bin 0, P(bin | class) = 1.00
+Class 4, attribute 7, bin 1, P(bin | class) = 0.00
+Class 4, attribute 7, bin 2, P(bin | class) = 0.00
+Class 4, attribute 7, bin 3, P(bin | class) = 0.00
+Class 4, attribute 7, bin 4, P(bin | class) = 0.00
+Class 5, attribute 0, bin 0, P(bin | class) = 0.07
+Class 5, attribute 0, bin 1, P(bin | class) = 0.64
+Class 5, attribute 0, bin 2, P(bin | class) = 0.21
+Class 5, attribute 0, bin 3, P(bin | class) = 0.07
+Class 5, attribute 0, bin 4, P(bin | class) = 0.00
+Class 5, attribute 1, bin 0, P(bin | class) = 0.14
+Class 5, attribute 1, bin 1, P(bin | class) = 0.71
+Class 5, attribute 1, bin 2, P(bin | class) = 0.14
+Class 5, attribute 1, bin 3, P(bin | class) = 0.00
+Class 5, attribute 1, bin 4, P(bin | class) = 0.00
+Class 5, attribute 2, bin 0, P(bin | class) = 0.00
+Class 5, attribute 2, bin 1, P(bin | class) = 1.00
+Class 5, attribute 2, bin 2, P(bin | class) = 0.00
+Class 5, attribute 2, bin 3, P(bin | class) = 0.00
+Class 5, attribute 2, bin 4, P(bin | class) = 0.00
+Class 5, attribute 3, bin 0, P(bin | class) = 0.86
+Class 5, attribute 3, bin 1, P(bin | class) = 0.14
+Class 5, attribute 3, bin 2, P(bin | class) = 0.00
+Class 5, attribute 3, bin 3, P(bin | class) = 0.00
+Class 5, attribute 3, bin 4, P(bin | class) = 0.00
+Class 5, attribute 4, bin 0, P(bin | class) = 0.00
+Class 5, attribute 4, bin 1, P(bin | class) = 1.00
+Class 5, attribute 4, bin 2, P(bin | class) = 0.00
+Class 5, attribute 4, bin 3, P(bin | class) = 0.00
+Class 5, attribute 4, bin 4, P(bin | class) = 0.00
+Class 5, attribute 5, bin 0, P(bin | class) = 0.00
+Class 5, attribute 5, bin 1, P(bin | class) = 0.14
+Class 5, attribute 5, bin 2, P(bin | class) = 0.00
+Class 5, attribute 5, bin 3, P(bin | class) = 0.50
+Class 5, attribute 5, bin 4, P(bin | class) = 0.36
+Class 5, attribute 6, bin 0, P(bin | class) = 0.00
+Class 5, attribute 6, bin 1, P(bin | class) = 1.00
+Class 5, attribute 6, bin 2, P(bin | class) = 0.00
+Class 5, attribute 6, bin 3, P(bin | class) = 0.00
+Class 5, attribute 6, bin 4, P(bin | class) = 0.00
+Class 5, attribute 7, bin 0, P(bin | class) = 0.93
+Class 5, attribute 7, bin 1, P(bin | class) = 0.07
+Class 5, attribute 7, bin 2, P(bin | class) = 0.00
+Class 5, attribute 7, bin 3, P(bin | class) = 0.00
+Class 5, attribute 7, bin 4, P(bin | class) = 0.00
+Class 6, attribute 0, bin 0, P(bin | class) = 0.23
+Class 6, attribute 0, bin 1, P(bin | class) = 0.64
+Class 6, attribute 0, bin 2, P(bin | class) = 0.14
+Class 6, attribute 0, bin 3, P(bin | class) = 0.00
+Class 6, attribute 0, bin 4, P(bin | class) = 0.00
+Class 6, attribute 1, bin 0, P(bin | class) = 0.19
+Class 6, attribute 1, bin 1, P(bin | class) = 0.74
+Class 6, attribute 1, bin 2, P(bin | class) = 0.07
+Class 6, attribute 1, bin 3, P(bin | class) = 0.00
+Class 6, attribute 1, bin 4, P(bin | class) = 0.00
+Class 6, attribute 2, bin 0, P(bin | class) = 0.00
+Class 6, attribute 2, bin 1, P(bin | class) = 0.90
+Class 6, attribute 2, bin 2, P(bin | class) = 0.09
+Class 6, attribute 2, bin 3, P(bin | class) = 0.00
+Class 6, attribute 2, bin 4, P(bin | class) = 0.00
+Class 6, attribute 3, bin 0, P(bin | class) = 0.91
+Class 6, attribute 3, bin 1, P(bin | class) = 0.06
+Class 6, attribute 3, bin 2, P(bin | class) = 0.01
+Class 6, attribute 3, bin 3, P(bin | class) = 0.00
+Class 6, attribute 3, bin 4, P(bin | class) = 0.01
+Class 6, attribute 4, bin 0, P(bin | class) = 0.00
+Class 6, attribute 4, bin 1, P(bin | class) = 0.99
+Class 6, attribute 4, bin 2, P(bin | class) = 0.00
+Class 6, attribute 4, bin 3, P(bin | class) = 0.00
+Class 6, attribute 4, bin 4, P(bin | class) = 0.01
+Class 6, attribute 5, bin 0, P(bin | class) = 0.00
+Class 6, attribute 5, bin 1, P(bin | class) = 0.00
+Class 6, attribute 5, bin 2, P(bin | class) = 0.00
+Class 6, attribute 5, bin 3, P(bin | class) = 0.00
+Class 6, attribute 5, bin 4, P(bin | class) = 1.00
+Class 6, attribute 6, bin 0, P(bin | class) = 0.06
+Class 6, attribute 6, bin 1, P(bin | class) = 0.93
+Class 6, attribute 6, bin 2, P(bin | class) = 0.01
+Class 6, attribute 6, bin 3, P(bin | class) = 0.00
+Class 6, attribute 6, bin 4, P(bin | class) = 0.00
+Class 6, attribute 7, bin 0, P(bin | class) = 0.93
+Class 6, attribute 7, bin 1, P(bin | class) = 0.05
+Class 6, attribute 7, bin 2, P(bin | class) = 0.02
+Class 6, attribute 7, bin 3, P(bin | class) = 0.00
+Class 6, attribute 7, bin 4, P(bin | class) = 0.00
+Class 7, attribute 0, bin 0, P(bin | class) = 0.00
+Class 7, attribute 0, bin 1, P(bin | class) = 0.09
+Class 7, attribute 0, bin 2, P(bin | class) = 0.59
+Class 7, attribute 0, bin 3, P(bin | class) = 0.32
+Class 7, attribute 0, bin 4, P(bin | class) = 0.00
+Class 7, attribute 1, bin 0, P(bin | class) = 0.05
+Class 7, attribute 1, bin 1, P(bin | class) = 0.09
+Class 7, attribute 1, bin 2, P(bin | class) = 0.59
+Class 7, attribute 1, bin 3, P(bin | class) = 0.27
+Class 7, attribute 1, bin 4, P(bin | class) = 0.00
+Class 7, attribute 2, bin 0, P(bin | class) = 0.05
+Class 7, attribute 2, bin 1, P(bin | class) = 0.95
+Class 7, attribute 2, bin 2, P(bin | class) = 0.00
+Class 7, attribute 2, bin 3, P(bin | class) = 0.00
+Class 7, attribute 2, bin 4, P(bin | class) = 0.00
+Class 7, attribute 3, bin 0, P(bin | class) = 1.00
+Class 7, attribute 3, bin 1, P(bin | class) = 0.00
+Class 7, attribute 3, bin 2, P(bin | class) = 0.00
+Class 7, attribute 3, bin 3, P(bin | class) = 0.00
+Class 7, attribute 3, bin 4, P(bin | class) = 0.00
+Class 7, attribute 4, bin 0, P(bin | class) = 0.00
+Class 7, attribute 4, bin 1, P(bin | class) = 1.00
+Class 7, attribute 4, bin 2, P(bin | class) = 0.00
+Class 7, attribute 4, bin 3, P(bin | class) = 0.00
+Class 7, attribute 4, bin 4, P(bin | class) = 0.00
+Class 7, attribute 5, bin 0, P(bin | class) = 0.00
+Class 7, attribute 5, bin 1, P(bin | class) = 0.00
+Class 7, attribute 5, bin 2, P(bin | class) = 0.00
+Class 7, attribute 5, bin 3, P(bin | class) = 0.00
+Class 7, attribute 5, bin 4, P(bin | class) = 1.00
+Class 7, attribute 6, bin 0, P(bin | class) = 0.23
+Class 7, attribute 6, bin 1, P(bin | class) = 0.77
+Class 7, attribute 6, bin 2, P(bin | class) = 0.00
+Class 7, attribute 6, bin 3, P(bin | class) = 0.00
+Class 7, attribute 6, bin 4, P(bin | class) = 0.00
+Class 7, attribute 7, bin 0, P(bin | class) = 1.00
+Class 7, attribute 7, bin 1, P(bin | class) = 0.00
+Class 7, attribute 7, bin 2, P(bin | class) = 0.00
+Class 7, attribute 7, bin 3, P(bin | class) = 0.00
+Class 7, attribute 7, bin 4, P(bin | class) = 0.00
+Class 8, attribute 0, bin 0, P(bin | class) = 0.12
+Class 8, attribute 0, bin 1, P(bin | class) = 0.44
+Class 8, attribute 0, bin 2, P(bin | class) = 0.38
+Class 8, attribute 0, bin 3, P(bin | class) = 0.06
+Class 8, attribute 0, bin 4, P(bin | class) = 0.00
+Class 8, attribute 1, bin 0, P(bin | class) = 0.25
+Class 8, attribute 1, bin 1, P(bin | class) = 0.31
+Class 8, attribute 1, bin 2, P(bin | class) = 0.38
+Class 8, attribute 1, bin 3, P(bin | class) = 0.06
+Class 8, attribute 1, bin 4, P(bin | class) = 0.00
+Class 8, attribute 2, bin 0, P(bin | class) = 0.12
+Class 8, attribute 2, bin 1, P(bin | class) = 0.88
+Class 8, attribute 2, bin 2, P(bin | class) = 0.00
+Class 8, attribute 2, bin 3, P(bin | class) = 0.00
+Class 8, attribute 2, bin 4, P(bin | class) = 0.00
+Class 8, attribute 3, bin 0, P(bin | class) = 1.00
+Class 8, attribute 3, bin 1, P(bin | class) = 0.00
+Class 8, attribute 3, bin 2, P(bin | class) = 0.00
+Class 8, attribute 3, bin 3, P(bin | class) = 0.00
+Class 8, attribute 3, bin 4, P(bin | class) = 0.00
+Class 8, attribute 4, bin 0, P(bin | class) = 0.00
+Class 8, attribute 4, bin 1, P(bin | class) = 1.00
+Class 8, attribute 4, bin 2, P(bin | class) = 0.00
+Class 8, attribute 4, bin 3, P(bin | class) = 0.00
+Class 8, attribute 4, bin 4, P(bin | class) = 0.00
+Class 8, attribute 5, bin 0, P(bin | class) = 0.00
+Class 8, attribute 5, bin 1, P(bin | class) = 0.00
+Class 8, attribute 5, bin 2, P(bin | class) = 0.00
+Class 8, attribute 5, bin 3, P(bin | class) = 0.00
+Class 8, attribute 5, bin 4, P(bin | class) = 1.00
+Class 8, attribute 6, bin 0, P(bin | class) = 0.06
+Class 8, attribute 6, bin 1, P(bin | class) = 0.88
+Class 8, attribute 6, bin 2, P(bin | class) = 0.06
+Class 8, attribute 6, bin 3, P(bin | class) = 0.00
+Class 8, attribute 6, bin 4, P(bin | class) = 0.00
+Class 8, attribute 7, bin 0, P(bin | class) = 0.94
+Class 8, attribute 7, bin 1, P(bin | class) = 0.06
+Class 8, attribute 7, bin 2, P(bin | class) = 0.00
+Class 8, attribute 7, bin 3, P(bin | class) = 0.00
+Class 8, attribute 7, bin 4, P(bin | class) = 0.00
+Class 9, attribute 0, bin 0, P(bin | class) = 0.00
+Class 9, attribute 0, bin 1, P(bin | class) = 0.00
+Class 9, attribute 0, bin 2, P(bin | class) = 0.75
+Class 9, attribute 0, bin 3, P(bin | class) = 0.25
+Class 9, attribute 0, bin 4, P(bin | class) = 0.00
+Class 9, attribute 1, bin 0, P(bin | class) = 0.00
+Class 9, attribute 1, bin 1, P(bin | class) = 0.25
+Class 9, attribute 1, bin 2, P(bin | class) = 0.25
+Class 9, attribute 1, bin 3, P(bin | class) = 0.50
+Class 9, attribute 1, bin 4, P(bin | class) = 0.00
+Class 9, attribute 2, bin 0, P(bin | class) = 0.25
+Class 9, attribute 2, bin 1, P(bin | class) = 0.75
+Class 9, attribute 2, bin 2, P(bin | class) = 0.00
+Class 9, attribute 2, bin 3, P(bin | class) = 0.00
+Class 9, attribute 2, bin 4, P(bin | class) = 0.00
+Class 9, attribute 3, bin 0, P(bin | class) = 0.75
+Class 9, attribute 3, bin 1, P(bin | class) = 0.25
+Class 9, attribute 3, bin 2, P(bin | class) = 0.00
+Class 9, attribute 3, bin 3, P(bin | class) = 0.00
+Class 9, attribute 3, bin 4, P(bin | class) = 0.00
+Class 9, attribute 4, bin 0, P(bin | class) = 0.00
+Class 9, attribute 4, bin 1, P(bin | class) = 0.00
+Class 9, attribute 4, bin 2, P(bin | class) = 0.00
+Class 9, attribute 4, bin 3, P(bin | class) = 0.00
+Class 9, attribute 4, bin 4, P(bin | class) = 1.00
+Class 9, attribute 5, bin 0, P(bin | class) = 0.00
+Class 9, attribute 5, bin 1, P(bin | class) = 0.00
+Class 9, attribute 5, bin 2, P(bin | class) = 0.00
+Class 9, attribute 5, bin 3, P(bin | class) = 0.00
+Class 9, attribute 5, bin 4, P(bin | class) = 1.00
+Class 9, attribute 6, bin 0, P(bin | class) = 0.00
+Class 9, attribute 6, bin 1, P(bin | class) = 1.00
+Class 9, attribute 6, bin 2, P(bin | class) = 0.00
+Class 9, attribute 6, bin 3, P(bin | class) = 0.00
+Class 9, attribute 6, bin 4, P(bin | class) = 0.00
+Class 9, attribute 7, bin 0, P(bin | class) = 1.00
+Class 9, attribute 7, bin 1, P(bin | class) = 0.00
+Class 9, attribute 7, bin 2, P(bin | class) = 0.00
+Class 9, attribute 7, bin 3, P(bin | class) = 0.00
+Class 9, attribute 7, bin 4, P(bin | class) = 0.00
+ID=    0, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=    1, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=    2, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=    3, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=    4, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=    5, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=    6, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=    7, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=    8, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=    9, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   10, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   11, predicted=  6, probability = 0.3315, true=  5, accuracy=0.00
+
+ID=   12, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   13, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=   14, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=   15, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   16, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   17, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   18, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   19, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   20, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   21, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   22, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   23, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=   24, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   25, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   26, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   27, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   28, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   29, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=   30, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   31, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   32, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   33, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   34, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   35, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   36, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   37, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   38, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   39, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   40, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   41, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=   42, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   43, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   44, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   45, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   46, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   47, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   48, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   49, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   50, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   51, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   52, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   53, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   54, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   55, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   56, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   57, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   58, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   59, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   60, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   61, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   62, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   63, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=   64, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   65, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=   66, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   67, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=   68, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   69, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   70, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=   71, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   72, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   73, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   74, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   75, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=   76, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   77, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   78, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=   79, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   80, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   81, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=   82, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=   83, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   84, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   85, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=   86, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   87, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=   88, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   89, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   90, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   91, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   92, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   93, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   94, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   95, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   96, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=   97, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=   98, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=   99, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  100, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  101, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  102, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  103, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  104, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  105, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  106, predicted=  6, probability = 0.3315, true=  5, accuracy=0.00
+
+ID=  107, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  108, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  109, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  110, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  111, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  112, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  113, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  114, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  115, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  116, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  117, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  118, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  119, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  120, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  121, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  122, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  123, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  124, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  125, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  126, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  127, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  128, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  129, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  130, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  131, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  132, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  133, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  134, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  135, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  136, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  137, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  138, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  139, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  140, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  141, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  142, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  143, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  144, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  145, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  146, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  147, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  148, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  149, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  150, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  151, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  152, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  153, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  154, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  155, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  156, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  157, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  158, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  159, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  160, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  161, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  162, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  163, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  164, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  165, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  166, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  167, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  168, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  169, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  170, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  171, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  172, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  173, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  174, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  175, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  176, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  177, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  178, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  179, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  180, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  181, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  182, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  183, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  184, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  185, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  186, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  187, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  188, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  189, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  190, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  191, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  192, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  193, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  194, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  195, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  196, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  197, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  198, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  199, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  200, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  201, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  202, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  203, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  204, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  205, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  206, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  207, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  208, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  209, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  210, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  211, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  212, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  213, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  214, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  215, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  216, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  217, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  218, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  219, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  220, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  221, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  222, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  223, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  224, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  225, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  226, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  227, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  228, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  229, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  230, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  231, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  232, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  233, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  234, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  235, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  236, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  237, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  238, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  239, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  240, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  241, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  242, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  243, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  244, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  245, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  246, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  247, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  248, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  249, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  250, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  251, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  252, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  253, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  254, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  255, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  256, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  257, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  258, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  259, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  260, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  261, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  262, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  263, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  264, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  265, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  266, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  267, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  268, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  269, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  270, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  271, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  272, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  273, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  274, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  275, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  276, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  277, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  278, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  279, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  280, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  281, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  282, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  283, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  284, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  285, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  286, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  287, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  288, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  289, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  290, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  291, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  292, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  293, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  294, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  295, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  296, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  297, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  298, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  299, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  300, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  301, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  302, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  303, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  304, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  305, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  306, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  307, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  308, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  309, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  310, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  311, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  312, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  313, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  314, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  315, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  316, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  317, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  318, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  319, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  320, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  321, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  322, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  323, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  324, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  325, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  326, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  327, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  328, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  329, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  330, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  331, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  332, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  333, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  334, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  335, predicted=  6, probability = 0.3315, true=  5, accuracy=0.00
+
+ID=  336, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  337, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  338, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  339, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  340, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  341, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  342, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  343, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  344, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  345, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  346, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  347, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  348, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  349, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  350, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  351, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  352, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  353, predicted=  6, probability = 0.3315, true=  5, accuracy=0.00
+
+ID=  354, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  355, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  356, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  357, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  358, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  359, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  360, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  361, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  362, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  363, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  364, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  365, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  366, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  367, predicted=  6, probability = 0.3315, true=  5, accuracy=0.00
+
+ID=  368, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  369, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  370, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  371, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  372, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  373, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  374, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  375, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  376, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  377, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  378, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  379, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  380, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  381, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  382, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  383, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  384, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  385, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  386, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  387, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  388, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  389, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  390, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  391, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  392, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  393, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  394, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  395, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  396, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  397, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  398, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  399, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  400, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  401, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  402, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  403, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  404, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  405, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  406, predicted=  6, probability = 0.3315, true=  9, accuracy=0.00
+
+ID=  407, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  408, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  409, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  410, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  411, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  412, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  413, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  414, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  415, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  416, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  417, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  418, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  419, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  420, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  421, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  422, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  423, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  424, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  425, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  426, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  427, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  428, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  429, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  430, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  431, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  432, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  433, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  434, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  435, predicted=  6, probability = 0.3315, true=  5, accuracy=0.00
+
+ID=  436, predicted=  6, probability = 0.3315, true=  8, accuracy=0.00
+
+ID=  437, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  438, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  439, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  440, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  441, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  442, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  443, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  444, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  445, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  446, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  447, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  448, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  449, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  450, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  451, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  452, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  453, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  454, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  455, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  456, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  457, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  458, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  459, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  460, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  461, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  462, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  463, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  464, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  465, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  466, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  467, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  468, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  469, predicted=  6, probability = 0.3315, true=  6, accuracy=1.00
+
+ID=  470, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  471, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  472, predicted=  6, probability = 0.3315, true=  3, accuracy=0.00
+
+ID=  473, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  474, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  475, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  476, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  477, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+ID=  478, predicted=  6, probability = 0.3315, true=  4, accuracy=0.00
+
+ID=  479, predicted=  6, probability = 0.3315, true=  2, accuracy=0.00
+
+ID=  480, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  481, predicted=  6, probability = 0.3315, true=  7, accuracy=0.00
+
+ID=  482, predicted=  6, probability = 0.3315, true=  1, accuracy=0.00
+
+ID=  483, predicted=  6, probability = 0.3315, true=  0, accuracy=0.00
+
+Total Accuracy : 0.30165

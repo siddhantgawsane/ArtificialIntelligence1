@@ -1,0 +1,9 @@
+Observation Sequence Q: CLLCCCLLL
+Length of Q: 9
+P(h1|Q) = 0.00000
+P(h2|Q) = 0.06009
+P(h3|Q) = 0.75964
+P(h4|Q) = 0.18027
+P(h5|Q) = 0.00000
+Probability that the next candy we pick will be C, given Q: 0.46996
+Probability that the next candy we pick will be L, given Q: 0.53004

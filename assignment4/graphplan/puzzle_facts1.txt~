@@ -1,0 +1,22 @@
+(B11 Object)
+(B12 Object)
+(B13 Object)
+(B21 Object)
+(B22 Object)
+(B23 Object)
+(B31 Object)
+(B32 Object)
+(B33 Object)
+(1 Object)
+(2 Object)
+(3 Object)
+(4 Object)
+(5 Object)
+(6 Object)
+(7 Object)
+
+(preconds
+ (adjacent B11 B12) (adjacent B11 B21) (adjacent B12 B11) (adjacent B12 B13) (adjacent B12 B21) (adjacent B13 B12) (adjacent B13 B23) (adjacent B21 B11) (adjacent B21 B22) (adjacent B21 B31) (adjacent B22 B21) (adjacent B22 B12) (adjacent B22 B23) (adjacent B22 B32) (adjacent B23 B22) (adjacent B23 B33) (adjacent B23 B13) (adjacent B31 B21) (adjacent B31 B32) (adjacent B32 B31) (adjacent B32 B33) (adjacent B32 B22) (adjacent B33 B32) (adjacent B33 B23) (on 1 B31) (on 2 B32) (on 3 B33) (on 4 B21) (on 5 B22) (on 6 B23) (on 7 B11) (clear B12) (clear B13))
+
+(effects
+ (on 1 B31) (on 2 B32) (on 3 B33) (on 4 B11) (on 5 B22) (on 6 B23) (on 7 B13) (clear B12) (clear B21))

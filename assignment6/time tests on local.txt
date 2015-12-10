@@ -1,0 +1,44 @@
+yeast randomized
+
+real	1m25.383s
+user	1m24.716s
+sys	0m0.052s
+
+satellite randomized
+
+real	22m59.338s
+user	22m59.176s
+sys	0m0.668s
+
+pen digits randomized
+
+real	87m58.517s
+user	87m56.252s
+sys	0m2.440s
+
+yeast optimized
+
+real	5m18.532s
+user	5m18.484s
+sys	0m0.216s
+
+yeast forest3
+
+real	6m46.321s
+user	4m6.572s
+sys	0m0.152s
+
+satellite forest 3
+
+real	256m3.804s
+user	166m43.548s
+sys	0m4.248s
+
+yeast forest15
+
+real	36m30.522s
+user	20m45.532s
+sys	0m0.468s
+
+
+

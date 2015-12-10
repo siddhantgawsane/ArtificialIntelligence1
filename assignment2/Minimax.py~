@@ -1,0 +1,60 @@
+import copy
+
+def possibleMoves(board):
+	possibleMoves = []
+	for col, colVal in enumerate(board[0]):
+		if colVal == 0:
+			possibleMoves.append(col)
+	return possibleMoves
+		
+def result(oldGame, column):
+	newGame = maxConnect4Game()
+	newGame.player1Score = oldGame.player1Score
+	newGame.player2Score = oldGame.player2Score
+	newGame.pieceCount = oldGame.pieceCount
+	newGame.gameBoard = copy.deepcopy(oldGame.gameBoard)
+	if not newGame.gameBoard[0][column]:
+		for i in range(5, -1, -1):
+			if not newGame.gameBoard[i][column]:
+				newGame.gameBoard[i][column] = oldGame.currentTurn
+				newGame.pieceCount += 1
+				#return 1
+	if oldGame.currentTurn == 1:
+		newGame.currentTurn = 2
+	elif oldGame.currentTurn == 2:
+		newGame.currentTurn = 1
+	return newGame
+	
+class Minimax:
+	def __init__(self, game):
+		print(game)
+		self.game = game
+		
+	def makeDecision(self):
+		if self.game.currentTurn == 1:
+			minValues = []
+			for move in possibleMoves(self.game.gameBoard):
+				minValues.append(self.minVal(result(self.game,move)))
+			return max(minValues)
+			
+		elif self.game.currentTurn == 2:
+			maxValues = []
+			for move in possibleMoves(self.game.gameBoard):
+				maxValues.append(self.maxVal(result(self.game,move)))
+			return min(maxValues)
+        
+	def minVal(self, state):
+		if state.pieceCount == 42:
+			return state.player1Score - state.player2Score
+		v = 99999
+		for move in possibleMoves(state.gameBoard):
+			v=min(v,self.maxVal(result(state,move)))
+		return v
+		
+	def maxVal(self, state):
+		if state.pieceCount == 42:
+			return state.player1Score - state.player2Score
+		v = 99999
+		for move in possibleMoves(state.gameBoard):
+			v=max(v,self.minVal(result(state,move)))
+		return v

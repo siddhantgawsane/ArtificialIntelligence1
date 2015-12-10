@@ -1,0 +1,14 @@
+(A Object)
+(B Object)
+(C Object)
+(disk1 Object)
+(disk2 Object)
+(disk3 Object)
+(disk4 Object)
+(disk5 Object)
+
+(preconds 
+ (on disk1 disk2) (on disk2 disk3) (on disk3 disk4) (on disk4 disk5) (on disk5 C) (clear disk1) (clear A) (clear B))
+
+(effects
+ (on disk1 disk2) (on disk2 disk3) (on disk3 disk4) (on disk4 disk5) (on disk5 A))
